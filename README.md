@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ash, 26 years old!
 - 👀 I’m interested in game and web development!
-- 🌱 I’m currently learning Angular with the tried and true todo list project!
+- 🌱 I’m currently learning about API's by building a weather app with angular!
 - 💞️ I’m looking to collaborate on... nothing at the moment. But soon....
 - 📫 How to reach me? You can find me on twitter at @ReaperAC_ or by email at ashchambers304@gmail.com
 
